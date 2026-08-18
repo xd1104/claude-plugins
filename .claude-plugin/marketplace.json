@@ -1,0 +1,21 @@
+{
+  "name": "benson",
+  "owner": {
+    "name": "Benson"
+  },
+  "description": "Benson 的 AI 團隊 — 跨專案共用的角色、工作流程與累積的開發經驗",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "ai-team",
+      "source": "ai-team",
+      "description": "應用實驗室團隊（team-lab）：UX 設計 → 開發 → 品管驗收的完整工作鏈，附跨專案經驗手冊",
+      "version": "1.0.0",
+      "author": {
+        "name": "Benson"
+      }
+    }
+  ]
+}
